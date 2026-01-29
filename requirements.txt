@@ -1,0 +1,2 @@
+For the sales data analysis project the main requiremnet is :
+  Pandas
